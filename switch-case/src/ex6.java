@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class ex6 {
+    static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int x = sc.nextInt();
+        if (x <= 0) {
+            System.out.println("Temperatura este scazuta");
+        }
+        else {
+            System.out.println("Temperatura este ridicata");
+        }
+    }
+}
