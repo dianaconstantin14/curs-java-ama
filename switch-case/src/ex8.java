@@ -6,8 +6,7 @@ public class ex8 {
         int x = sc.nextInt();
         if (x < 100) {
             System.out.println("Produsul este la reducere");
-        }
-        else {
+        } else {
             System.out.println("Produsul este la pret intreg");
         }
     }

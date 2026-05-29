@@ -6,8 +6,7 @@ public class ex2 {
         int x = sc.nextInt();
         if (x % 2 == 0) {
             System.out.println("Numarul este par");
-        }
-   else {
+        } else {
             System.out.println("Numarul este impar");
         }
     }

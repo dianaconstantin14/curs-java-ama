@@ -6,8 +6,7 @@ public class ex6 {
         int x = sc.nextInt();
         if (x <= 0) {
             System.out.println("Temperatura este scazuta");
-        }
-        else {
+        } else {
             System.out.println("Temperatura este ridicata");
         }
     }
